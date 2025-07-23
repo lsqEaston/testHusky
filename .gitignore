@@ -1,3 +1,4 @@
 .husky
 package-lock.json
 node_modules
+.ruff_cache
